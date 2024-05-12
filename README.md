@@ -1,6 +1,5 @@
 # Projeto_da_Imersao_Aula-_4
-
-# Objetivo tornar a matéria de química interessante com o auxilio de IA 
+# **Objetivo tornar a matéria de química interessante com o auxilio de IA **​ :desktop_computer: 
 
 Preparem-se para uma aventura  no mundo da Química! Hoje, embarcaremos em uma jornada inesquecível com a Inteligência Artificial (IA) como nossa guia. Juntos, desvendaremos os segredos da química e descobriremos por que a IA é a chave para um futuro promissor nessa área.
 
@@ -12,7 +11,7 @@ Imaginem um mundo onde a química se torna mais fácil, mais interessante e até
 
 
 
-# Objetivos
+# Objetivos:
 
 ## Tornando a Química Divertida: Uma Jornada Através da Tabela Periódica!
 
@@ -26,19 +25,19 @@ Juntos, vamos explorar cada elemento, descobrindo seus segredos e compreendendo 
 
 
 
-**Nosso objetivo é:**
+Nosso objetivo é:
 
-- **Despertar a curiosidade e o interesse dos alunos pela química.**
-- **Desenvolver habilidades de pensamento crítico e resolução de problemas.**
-- **Promover a colaboração e o trabalho em equipe.**
-- **Criar um ambiente de aprendizado positivo e motivador.**
-- **Preparar os alunos para os desafios do futuro, em um mundo cada vez mais dependente da química.**
+- Despertar a curiosidade e o interesse dos alunos pela química.
+- Desenvolver habilidades de pensamento crítico e resolução de problemas.
+- Promover a colaboração e o trabalho em equipe.
+- Criar um ambiente de aprendizado positivo e motivador.
+- Preparar os alunos para os desafios do futuro, em um mundo cada vez mais dependente da química.
 
 **Acreditamos que a química pode ser divertida e acessível a todos.**
 
 
 
-# Lista de tarefas:bookmark_tabs: 
+# Lista de tarefas:
 
 - [ ] Como classificar o período e o grupo do elemento?
 
