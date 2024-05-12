@@ -1,9 +1,11 @@
 # Projeto_da_Imersao_Aula-_4
-# Objetivo tornar a matéria de química interessante com o auxilio de IA :desktop_computer: 
+<img src="/home/alcides/Downloads/Gemini_Generated_Image_q1lubvq1lubvq1lu.jpeg" style="zoom:30%;" />
+
+# **Objetivo tornar a matéria de química interessante com o auxilio de IA **​ :desktop_computer: 
 
 Preparem-se para uma aventura  no mundo da Química! Hoje, embarcaremos em uma jornada inesquecível com a Inteligência Artificial (IA) como nossa guia. Juntos, desvendaremos os segredos da química e descobriremos por que a IA é a chave para um futuro promissor nessa área.
 
-Por que a IA é tão interessante para alunos de Química?
+**Por que a IA é tão interessante para alunos de Química?**
 
 Imaginem um mundo onde a química se torna mais fácil, mais interessante e até mesmo divertida! A IA torna isso possível, oferecendo ferramentas incríveis que podem transformar a maneira como vocês aprendem e exploram esse fascinante universo.
 
@@ -15,7 +17,7 @@ Imaginem um mundo onde a química se torna mais fácil, mais interessante e até
 
 ## Tornando a Química Divertida: Uma Jornada Através da Tabela Periódica!
 
-Imagine um mundo onde a química se torna fascinante, envolvente e até mesmo divertida!
+**Imagine um mundo onde a química se torna fascinante, envolvente e até mesmo divertida!**
 
 Esse é o objetivo do nosso projeto, que visa tornar o aprendizado da química acessível e prazeroso para todos os alunos, do ensino básico ao superior.
 
@@ -48,3 +50,4 @@ Juntos, vamos explorar cada elemento, descobrindo seus segredos e compreendendo 
 - [ ] Explique sobre cálculos estequiométricos.
 
   
+
